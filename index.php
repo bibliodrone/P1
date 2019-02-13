@@ -15,7 +15,7 @@
 		<img src="images/GerryWalden.png" alt="Gerry Walden">
 	</div>
 	<div id="aboutMe">
-<p>Hi, I live in Boston and work in the Harvard Library. I am excited to learn more about server side Web development and PHP as well. In terms of programming languages, I have previous experience with Python, Javascript, and, a while back, Java.</p>
+<p> I live in Boston and work in the Harvard Library. I am excited to learn more about server side Web development and PHP as well. In terms of programming languages, I have previous experience with Python, Javascript, and Java.</p>
 </div> 
 	<div id="quotes">
 	<?php echo $finalQuote ?>
