@@ -8,19 +8,20 @@
   </head>
   <body>
 	<header>
-	<h2>Gerry Walden</h2>
+		<h2>Gerry Walden</h2>
 	</header>
-	<main>
-	<div id="portrait">
-		<img src="images/GerryWalden.png" alt="Gerry Walden">
-	</div>
-	<div id="aboutMe">
-<p> I live in Boston and work in the Harvard Library. I am excited to learn more about server side Web development and PHP as well. In terms of programming languages, I have previous experience with Python, Javascript, and Java.</p>
-</div> 
-	<div id="quotes">
-	<?php echo $finalQuote ?>
-	</div>
-	</main>
+		<main>
+			<div id="portrait">
+				<img src="images/GerryWalden.png" alt="Gerry Walden">
+			</div>
+			<div id="aboutMe">
+				<p> I live in Boston and work in the Harvard Library. I am excited to learn more about server side Web development and PHP as well. In terms of programming languages, I have previous experience with Python, Javascript, and Java.
+				</p>
+			</div> 
+			<div id="quotes">
+				<?php echo $finalQuote ?>
+			</div>
+		</main>
   </body>
 </html>
 
