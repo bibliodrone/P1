@@ -10,7 +10,7 @@
 	<header>
 	<h2>Gerry Walden</h2>
 	</header>
-	</main>
+	<main>
 	<div id="portrait">
 		<img src="images/GerryWalden.png" alt="Gerry Walden">
 	</div>
